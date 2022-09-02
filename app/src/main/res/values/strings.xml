@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlueStudio</string>
+    <string name="blue_movies">Bienvenido</string>
+    <string name="top_peliculas">Top Peliculas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_movies">Top Movies</string>
+    <string name="rated_movies">Rated Movies</string>
+</resources>
